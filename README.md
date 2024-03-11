@@ -12,9 +12,13 @@ https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data
 Files in this project:
 
 CIND860_data_desc.ipynb
+
 CIND860_image_prep.ipynb
+
 CIND860_shuffle_split_copy.ipynb
+
 CIND860_augment_train.ipynb
+
 CIND860_build_numpy_batches.ipynb
 
 
