@@ -26,7 +26,12 @@ CIND860_build_numpy_batches.ipynb
 
 CIND860_CNN.ipynb
 
+CIND860_TL_VGG16.ipynb
+
 CIND860_TL_VGG19.ipynb
+
+CIND860_TL_VGG19_full.ipynb
+
 **********************************************************************************************************************************
 
 
@@ -63,11 +68,12 @@ Augment Training Data(CIND860_augment_train.ipynb)
 
 Build numpy based batches of data to be used for training/validation and testing(CIND860_build_numpy_batches.ipynb)
 
-CNN Model Creation/Training/Validation(CIND860_CNN.ipynb)
+CNN Model Creation/Training/Validation(CIND860_CNN.ipynb)  (from scratch, similar to AlexNet)
 
-Transfer Learning Version(CIND860_TL_VGG19.ipynb)
+Transfer Learning Version(CIND860_TL_VGG19.ipynb) (all VGG CNN layers Frozen)
+
+Transfer Learning Version(CIND860_TL_VGG16.ipynb) (all but last CNN block Frozen)
+
+Transfer Learning Version(CIND860_TL_VGG19_full.ipynb) (loaded VGG19 weights, but allowed all levels to be trainable)
+
 **********************************************************************************************************************************
-
-
-
-
