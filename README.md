@@ -32,6 +32,30 @@ CIND860_TL_VGG19.ipynb
 
 CIND860_TL_VGG19_full.ipynb
 
+CIND860_TL_RESNET50_full_augmented.ipynb
+
+CIND860_TL_RESNET50_full_augment_cc_only_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augment_mlo_only_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augment_cc_and_mlo_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augmented.ipynb
+
+CIND860_TL_VGG19_full_augment_cc_only_evaluate_only.ipynb
+
+CIND860_TL_VGG19_full_augment_mlo_only_evaluate_only.ipynb
+
+CIND860_TL_VGG19_full_augment_cc_and_mlo_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augment_cc_only_evaluate_only_fullset_test.ipynb
+
+CIND860_Final_Tool.py
+
+cind860_presentation_rpineau.pptx
+
+cind860_final_report.pdf
+
 **********************************************************************************************************************************
 
 
@@ -75,5 +99,27 @@ Transfer Learning Version(CIND860_TL_VGG19.ipynb) (all VGG CNN layers Frozen)
 Transfer Learning Version(CIND860_TL_VGG16.ipynb) (all but last CNN block Frozen)
 
 Transfer Learning Version(CIND860_TL_VGG19_full.ipynb) (loaded VGG19 weights, but allowed all levels to be trainable)
+
+Transfer Learning Version(CIND860_TL_RESNET50_full_augmented.ipynb) (loaded ResNet50 weights, but allowed all levels to be trainable)
+
+Final Evaluations using best model for each attempt:
+
+CIND860_TL_RESNET50_full_augment_cc_only_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augment_mlo_only_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augment_cc_and_mlo_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augmented.ipynb
+
+CIND860_TL_VGG19_full_augment_cc_only_evaluate_only.ipynb
+
+CIND860_TL_VGG19_full_augment_mlo_only_evaluate_only.ipynb
+
+CIND860_TL_VGG19_full_augment_cc_and_mlo_evaluate_only.ipynb
+
+CIND860_TL_RESNET50_full_augment_cc_only_evaluate_only_fullset_test.ipynb
+
+(CIND860_Final_Tool.py)A standalone Python based tool that preps one image and runs it through the model.
 
 **********************************************************************************************************************************
